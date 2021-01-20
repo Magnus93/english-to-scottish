@@ -1,5 +1,5 @@
-var from_str = ["you","your","you're","my","myself","them","and","to","for","into","about","of","been","right"];
-var to_str  = ["yeh","yer","yeh're","me","meself","'em","an'","ter","fer","inter","'bout","o'","bin","righ'"];
+var from_str =  ["you","your","yourself","you're","my","myself","them","and","to","for","into","about","of","been","right"];
+var to_str  =   ["yeh","yer", "yerself", "yeh're","me","meself","'em","an'","ter","fer","inter","'bout","o'","bin","righ'"];
 
 function makeScottish(){
   var input_str = document.getElementById("input").value;       								//input string by user
